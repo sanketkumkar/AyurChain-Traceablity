@@ -1,0 +1,8 @@
+{
+  "name": "AyurChain Traceability",
+  "description": "A blockchain-based system for botanical traceability of Ayurvedic herbs, including geo-tagging from collection to the final formulation label.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
